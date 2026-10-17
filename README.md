@@ -106,8 +106,8 @@ console.log(`Feel free to contribute`);
 <table style="width:100%" align="center">
   <tr>
     <td>
-      <a href="https://github.com/madhavagarwal3012/Calcunite-Executable-File-Application ">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhavagarwal3012&repo=Calcunite-Executable-File-Application&theme=algolia" />
+      <a href="https://github.com/madhavagarwal312/Calcunite-Executable-File-Application ">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhavagarwal312&repo=Calcunite-Executable-File-Application&theme=algolia" />
       </a>
     </td>
     <td>
@@ -134,7 +134,7 @@ console.log(`Feel free to contribute`);
 ## 📂 My Repository Structure & Workflows 📂
 
 ```
-madhavagarwal3012/
+madhavagarwal312/
     ├── __pycache__/
     │   ├── connect4.cpython-310.pyc
     ├── .github/
